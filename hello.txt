@@ -6,5 +6,7 @@ hello git!yy
 hello git!yy
 hello git!yy
 hello git!yy master
+hello git!yy hot-fix
+https://github.com/Libra-Xuan/gitdemo.git
 hello git!yy hot-fix1
 11111111111
